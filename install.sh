@@ -4,7 +4,7 @@
 # ผู้ใช้รันคำสั่งเดียว: curl -sL https://raw.githubusercontent.com/mzxhub99/Tool-free/main/install.sh | bash
 set -e
 
-REPO="mzxhub99/Tool-free"
+REPO="Markx755/Rejointermux"
 ZIP_URL="https://github.com/$REPO/releases/latest/download/star_rejoin_5.1.py.zip"
 DIR="$HOME/star-tool"
 MAIN="star_rejoin_5.1.py"
